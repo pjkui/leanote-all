@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "leanote.note_tags", "name" : "_id_" }, { "v" : 1, "key" : { "UserId" : 1, "Tag" : 1 }, "ns" : "leanote.note_tags", "name" : "UserId_1_Tag_1", "background" : true }, { "v" : 1, "key" : { "UserId" : 1 }, "ns" : "leanote.note_tags", "name" : "UserId_1", "background" : true } ] }

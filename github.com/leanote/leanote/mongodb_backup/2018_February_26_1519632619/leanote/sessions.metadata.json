@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "leanote.sessions", "name" : "_id_" }, { "v" : 1, "key" : { "SessionId" : 1 }, "ns" : "leanote.sessions", "name" : "SessionId_1", "background" : true } ] }

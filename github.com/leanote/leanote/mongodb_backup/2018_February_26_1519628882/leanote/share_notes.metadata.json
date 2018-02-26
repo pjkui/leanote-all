@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "leanote.share_notes", "name" : "_id_" }, { "v" : 1, "key" : { "UserId" : 1 }, "ns" : "leanote.share_notes", "name" : "UserId_1", "background" : true }, { "v" : 1, "key" : { "ToUserId" : 1 }, "ns" : "leanote.share_notes", "name" : "ToUserId_1", "background" : true } ] }
